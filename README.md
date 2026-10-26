@@ -3,14 +3,14 @@
 XChat 是一个 Windows 桌面客户端，提供服务端账号登录、WireGuard 隧道连接、
 智能分流和 DNS 防泄漏等功能。
 
-当前客户端版本：**1.3.16**
+当前客户端版本：**1.3.17**
 
 ## 下载
 
 安装程序位于：
 
 ```text
-release/XChat-1.3.16-setup.exe
+release/XChat-1.3.17-setup.exe
 ```
 
 校验文件：
@@ -22,12 +22,12 @@ release/SHA256SUMS.txt
 SHA-256：
 
 ```text
-fd923f455c219fac0ef37bcd6d9b832995243314e969ee93c9ce74cc05349f6b
+446bdb25c73e15905c0d260607593ac74a52f61686452a73220bb0ea1d6716f0
 ```
 
 ## 安装
 
-1. 运行 `XChat-1.3.16-setup.exe`
+1. 运行 `XChat-1.3.17-setup.exe`
 2. 选择程序安装目录（可沿用上次目录）
 3. 等待安装完成
 4. 在完成页勾选“启动 XChat”

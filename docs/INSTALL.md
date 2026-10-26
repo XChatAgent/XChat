@@ -3,7 +3,7 @@
 ## 安装包
 
 ```text
-XChat-1.3.16-setup.exe
+XChat-1.3.17-setup.exe
 ```
 
 安装包内置 WireGuard Windows 驱动安装包，不需要单独下载。
